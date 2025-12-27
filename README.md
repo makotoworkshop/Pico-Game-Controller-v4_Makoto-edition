@@ -1,4 +1,4 @@
-# Pico-Game-Controller
+# Pico-Game-Controller Makoto-edition
 
 Code for a keyboard or game controller using a Raspberry Pi Pico. Capable of handling 10 buttons, 7 LEDs, 1 WS2812B RGB strip, and 2 encoders.
 For Sound Voltex Games.
